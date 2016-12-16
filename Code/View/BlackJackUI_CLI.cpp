@@ -60,7 +60,7 @@ void BlackJackUI_CLI::displayCurrentResults()
 
 void BlackJackUI_CLI::displayPlayerOptions()
 {
-	cout << endl << '\t' << "Hit (1) / Pass (2)" << endl << endl;
+	cout << endl << '\t' << "Hit (1) / Stand (2)" << endl << endl;
 }
 
 void BlackJackUI_CLI::displayBustStatistics()
